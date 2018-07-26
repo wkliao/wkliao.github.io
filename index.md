@@ -1,15 +1,6 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: "this is subheadline"
-title: "this is title"
-teaser: "this is teaser"
-header:
-   image_fullwidth: "belfast.jpg"
-   permalink: "/"
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# welcome
-https://wkliao.github.io
+layout: home
+---
